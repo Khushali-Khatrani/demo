@@ -1,4 +1,4 @@
 # demo
 This is my first git repository.
 </br>
-Author - Khushali Khatrani
+Author - Khushali K1 Zatakiya
